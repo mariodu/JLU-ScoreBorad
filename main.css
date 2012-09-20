@@ -1,0 +1,28 @@
+body{
+  background-color: #72C1B0;
+}
+.outline{
+  margin-right: auto;
+  margin-left: 30% !important;
+}
+.board{
+  padding-top: 50px;
+}
+div.span4 > h2,h3{
+  text-align: center;
+}
+.box {
+  background-color: white;
+  padding: 10px;
+  margin: 0 0 20px 0;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  -webkit-box-shadow: 0 0px 10px black;
+  -moz-box-shadow: 0 0px 10px black;
+  box-shadow: 0 0px 10px black;
+  opacity: 0.8;
+}
+#clearData{
+  margin-right: 30px;
+}
